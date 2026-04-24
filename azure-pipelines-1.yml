@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: 'MyLocalPool'
+  name: 'Devops-pool1'
 
 steps:
 - checkout: self
